@@ -1,0 +1,10 @@
+{
+  "module_id": "PG_MOD_30_MOZILLA_OTARI",
+  "status": "PASS",
+  "defense_status": "READY",
+  "latency_us": 0.0999,
+  "damping": 1.075,
+  "zdr_residual_mb": 0.0,
+  "worm_receipt": "WORM-OTARI-943132E28C7B",
+  "tasks_passed": 5
+}

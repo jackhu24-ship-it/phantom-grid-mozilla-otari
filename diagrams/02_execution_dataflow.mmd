@@ -1,0 +1,4 @@
+graph TB
+    Ingress(Phase 1 Ingress) --> Staging(Phase 2 Staging)
+    Staging --> Compute(Phase 3 Compute Under 1.85us)
+    Compute --> Gov(Phase 4 ZDR and WORM Seal)
